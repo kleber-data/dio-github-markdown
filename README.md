@@ -36,7 +36,8 @@ Acompanhamento das tarefas entre colaboradores:
 ```git commit -m "feat: Adicionando nova funcionalidade"
 ```
 4. Envie para seu repositório:
-```git push origin feature/minha-feature```
+```git push origin feature/minha-feature
+```
 5. Abra um **Pull Request**
 
 
