@@ -30,15 +30,20 @@ Acompanhamento das tarefas entre colaboradores:
 1. Faça um **Fork** do projeto.
 2. Crie uma nova branch para sua alteração:
 ```bash
-   git checkout -b feature/minha-feature.
+   git checkout -b feature/minha-feature
  ```
 3. Salve suas alterações e faça um **commit**
-```git commit -m "feat: Adicionando nova funcionalidade"
+```bash
+git commit -m "feat: Adicionando nova funcionalidade"
 ```
 4. Envie para seu repositório:
-```git push origin feature/minha-feature
+```bash
+git push origin feature/minha-feature
 ```
 5. Abra um **Pull Request**
+
+
+
 
 
 > Desenvolvido por Kleber | 2026 🎓
