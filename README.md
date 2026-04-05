@@ -21,10 +21,10 @@ Acompanhamento das tarefas entre colaboradores:
 - [X] Criar repositório e configurar o README inicial.
 - [X] Configurar chaves SSh no notebook.
 - [X] Realizar o `git clone` em um HD Externo.
-- [ ] Adicionar Colaborador(a) nas configurações do GitHub.
-- [ ] Criar uma nova branch para alterações: `git checkout -b feature/nome` 
-- [ ] Abrir uma **Issues** para discutir uma melhoria
-- [ ] Realizar um **Pull Request (PR)** com as mudanças
+- [X] Adicionar Colaborador(a) nas configurações do GitHub.
+- [X] Criar uma nova branch para alterações: `git checkout -b feature/nome` 
+- [X] Abrir uma **Issues** para discutir uma melhoria
+- [X] Realizar um **Pull Request (PR)** com as mudanças
 
 ## 📁 Como Contribuir
 1. Faça um **Fork** do projeto.
